@@ -62,7 +62,7 @@ async function askPermission() {
 function scheduleDailyNotification() {
   // Notifica immediata di test
   new Notification("Domanda del giorno", {
-    body: "Hai fatto la tua azione oggi? Apri e rispondi!"
+    body: "Hai dormito da Chiara oggi? Apri e rispondi!"
   });
 }
 
